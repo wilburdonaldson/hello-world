@@ -1,2 +1,3 @@
-# hello-world
-Figuring out how to use GitHub for the first time
+# Hello World!
+
+Testing how to use GitHub!
